@@ -7,7 +7,7 @@ about:
   head: c4dcf6b
   archived: false
   latestVersion: v0.25.0
-  collectedAt: 2026-09-04T19:33:15Z
+  collectedAt: 2026-09-04T20:59:11Z
 timeline:
   created: 2019-08-16
   lastCommit: 2021-11-17
@@ -81,6 +81,39 @@ total:
   openIssue: 271
   commit: 1272
 ---
+path: /home/runner/.x-repo/github.com/Rigellute/spotify-tui
+collectedAt: 2026-09-04T20:59:12Z
+loc:
+  Rust:
+    code: 10828
+    comments: 259
+    blanks: 958
+    files: 45
+  Yaml:
+    code: 43
+    comments: 0
+    blanks: 3
+    files: 1
+  Toml:
+    code: 33
+    comments: 1
+    blanks: 3
+    files: 2
+  Html:
+    code: 21
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 613
+    blanks: 218
+    files: 3
+total:
+  code: 11011
+  comments: 936
+  blanks: 1195
+  files: 52
 ---
 date: "2026-08-24"
 repo:
