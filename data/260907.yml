@@ -5,13 +5,13 @@ about:
   head: c4dcf6b
   archived: false
   latestVersion: "v0.25.0"
-  collectedAt: 2026-09-07T05:18:45Z
+  collectedAt: 2026-09-07T19:14:30Z
 timeline:
   created: 2019-08-16
   lastCommit: 2021-11-17
   lastRelease: 2021-08-24
 popularity:
-  star: 19343
+  star: 19345
   watcher: 76
   fork: 581
   release: 32
@@ -80,7 +80,7 @@ total:
   commit: 1272
 ---
 path: /home/runner/.x-repo/github.com/Rigellute/spotify-tui
-collectedAt: 2026-09-07T05:18:46Z
+collectedAt: 2026-09-07T19:14:33Z
 loc:
   Rust:
     code: 10828
@@ -113,26 +113,31 @@ total:
   blanks: 1195
   files: 52
 ---
-date: "2026-08-24"
+date: "2026-09-07"
 repo:
   name: github.com/Rigellute/spotify-tui
   commit: c4dcf6b9fd8318017acbdd7ec005955e26cf2794
 scorecard:
-  version: v5.5.1-0.20260815060127-d1fab88f5463
-  commit: d1fab88f54636ff366076edfc5c239f97b3c8e66
+  version: v5.5.0
+  commit: c395761df6afe1a69e476bc60a013a94bcbc153f
 score: 1.8
 checks:
-  - name: Code-Review
-    score: 4
-    reason: Found 6/14 approved changesets -- score normalized to 4
+  - name: Maintained
+    score: 0
+    reason: 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
     details: null
+  - name: Packaging
+    score: -1
+    reason: packaging workflow not detected
+    details:
+      - 'Warn: no GitHub/GitLab publishing workflow detected.'
   - name: Binary-Artifacts
     score: 10
     reason: no binaries found in the repo
     details: null
-  - name: Maintained
-    score: 0
-    reason: 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+  - name: Code-Review
+    score: 4
+    reason: Found 6/14 approved changesets -- score normalized to 4
     details: null
   - name: Token-Permissions
     score: 0
@@ -146,11 +151,6 @@ checks:
     reason: dangerous workflow patterns detected
     details:
       - 'Warn: script injection with untrusted input '' toJson(github.event) '': .github/workflows/ci.yml:16'
-  - name: Packaging
-    score: -1
-    reason: packaging workflow not detected
-    details:
-      - 'Warn: no GitHub/GitLab publishing workflow detected.'
   - name: Pinned-Dependencies
     score: 0
     reason: dependency not pinned by hash detected -- score normalized to 0
@@ -183,11 +183,6 @@ checks:
     score: 0
     reason: no effort to earn an OpenSSF best practices badge detected
     details: null
-  - name: Fuzzing
-    score: 0
-    reason: project is not fuzzed
-    details:
-      - 'Warn: no fuzzer integrations found'
   - name: Security-Policy
     score: 0
     reason: security policy file not detected
@@ -196,16 +191,17 @@ checks:
       - 'Warn: no security file to analyze'
       - 'Warn: no security file to analyze'
       - 'Warn: no security file to analyze'
+  - name: Fuzzing
+    score: 0
+    reason: project is not fuzzed
+    details:
+      - 'Warn: no fuzzer integrations found'
   - name: License
     score: 10
     reason: license file detected
     details:
       - 'Info: project has a license file: LICENSE:0'
       - 'Info: FSF or OSI recognized license: MIT License: LICENSE:0'
-  - name: Branch-Protection
-    score: -1
-    reason: 'internal error: error during branchesHandler.setup: internal error: some github tokens can''t read classic branch protection rules: https://github.com/ossf/scorecard-action/blob/main/docs/authentication/fine-grained-auth-token.md'
-    details: null
   - name: Signed-Releases
     score: 0
     reason: Project has not signed or included provenance with any releases.
@@ -220,6 +216,10 @@ checks:
       - 'Warn: release artifact v0.23.0 does not have provenance: https://api.github.com/repos/Rigellute/spotify-tui/releases/36039365'
       - 'Warn: release artifact v0.22.0 does not have provenance: https://api.github.com/repos/Rigellute/spotify-tui/releases/32158582'
       - 'Warn: release artifact v0.21.0 does not have provenance: https://api.github.com/repos/Rigellute/spotify-tui/releases/28905849'
+  - name: Branch-Protection
+    score: -1
+    reason: 'internal error: error during branchesHandler.setup: internal error: some github tokens can''t read classic branch protection rules: https://github.com/ossf/scorecard-action/blob/main/docs/authentication/fine-grained-auth-token.md'
+    details: null
   - name: SAST
     score: 0
     reason: SAST tool is not run on all commits -- score normalized to 0
@@ -227,7 +227,7 @@ checks:
       - 'Warn: 0 commits out of 23 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:18:46+00:00
+  collectedAt: 2026-09-07T19:14:34+00:00
   platform:
     darwin/arm64:
       name:  spotify-tui-macos.tar.gz
