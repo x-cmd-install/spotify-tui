@@ -12,35 +12,7 @@ Spotify for the terminal written in Rust 🚀
 x install spotify-tui
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/Rigellute/spotify-tui>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v0.25.0` (2021-08-24)
-- **Last commit**: 2021-11-17
-- **Assets in release**: 6
-- **Published**: 2021-08-24T10:07:21Z
-
-## Popularity
-
-- **Stars**: 19,345 · **Forks**: 581 · **Open issues**: 565 · **Contributors**: 90
-
-## Totals (cumulative)
-
-- **Releases**: 32 · **Merged PRs**: 418 · **Open PRs**: 35 · **Closed issues**: 294 · **Open issues**: 271 · **Commits**: 1272
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 1 | 0 |
-
-## Code size
+## Code insight
 
 Total: **10,925** lines of code across **52** files in the top 5 languages.
 
@@ -62,13 +34,63 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (4/10) — Found 6/14 approved changesets -- score normalized to 4
 
+## Source
+
+- **Upstream**: <https://github.com/Rigellute/spotify-tui>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v0.25.0` (2021-08-24)
+- **Last commit**: 2021-11-17
+- **Assets in release**: 6
+
+## Popularity
+
+- **Stars**: 19,347 · **Forks**: 581 · **Open issues**: 565 · **Contributors**: 90
+
+## Totals (cumulative)
+
+- **Releases**: 32 · **Merged PRs**: 418 · **Open PRs**: 35 · **Closed issues**: 294 · **Open issues**: 271 · **Commits**: 1272
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 2 | 6 | 16 | 0 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [spotify-tui-linux.sha256](https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-linux.sha256) | 91 B | `other` |
+| [spotify-tui-linux.tar.gz](https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-linux.tar.gz) | 3.5 MiB | `native/unknown` |
+| [spotify-tui-macos.sha256](https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-macos.sha256) | 91 B | `native/darwin/x64` |
+| [spotify-tui-macos.tar.gz](https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-macos.tar.gz) | 3.0 MiB | `native/darwin/x64` |
+| [spotify-tui-windows.sha256](https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-windows.sha256) | 66 B | `native/win/x64` |
+| [spotify-tui-windows.tar.gz](https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-windows.tar.gz) | 3.0 MiB | `native/win/x64` |
+
+## Distribution status
+
+Reported by **5** distros on [repology.org](https://repology.org/project/spotify-tui). **5** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Void | `0.25.0` | ✅ latest |
+| Alpine edge | `0.25.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for spotify-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `spotify-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/spotify-tui.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/spotify-tui.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:32:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:55:10Z._
