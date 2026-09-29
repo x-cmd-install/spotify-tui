@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": null,
-      "download_count": 1527,
+      "download_count": 1534,
       "created_at": "2021-08-24T10:07:22Z",
       "updated_at": "2021-08-24T10:07:22Z",
       "browser_download_url": "https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-linux.sha256"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3639800,
       "digest": null,
-      "download_count": 37953,
+      "download_count": 38006,
       "created_at": "2021-08-24T10:07:22Z",
       "updated_at": "2021-08-24T10:07:22Z",
       "browser_download_url": "https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-linux.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": null,
-      "download_count": 408,
+      "download_count": 412,
       "created_at": "2021-08-24T10:08:29Z",
       "updated_at": "2021-08-24T10:08:29Z",
       "browser_download_url": "https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-macos.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 66,
       "digest": null,
-      "download_count": 1318,
+      "download_count": 1324,
       "created_at": "2021-08-24T10:09:14Z",
       "updated_at": "2021-08-24T10:09:14Z",
       "browser_download_url": "https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-windows.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3189023,
       "digest": null,
-      "download_count": 23799,
+      "download_count": 23813,
       "created_at": "2021-08-24T10:09:14Z",
       "updated_at": "2021-08-24T10:09:15Z",
       "browser_download_url": "https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-windows.tar.gz"
