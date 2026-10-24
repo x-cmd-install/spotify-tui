@@ -39,6 +39,16 @@
   status: newest
   licenses:
     - MIT
+- repo: starkos
+  subrepo: extra
+  srcname: spotify-tui
+  visiblename: spotify-tui
+  version: 0.25.0
+  origversion: 0.25.0-1
+  status: newest
+  summary: Spotify client for the terminal written in Rust
+  maintainers:
+    - starkos@disroot.org
 - repo: void_x86_64
   subrepo: x86_64
   srcname: spotify-tui
