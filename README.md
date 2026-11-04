@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (4/10) — Found 6/14 approved changesets -- score normalized to 4
-- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 19,407 · **Forks**: 585 · **Open issues**: 565 · **Contributors**: 89
+- **Stars**: 19,408 · **Forks**: 585 · **Open issues**: 565 · **Contributors**: 89
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-08 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last720d | 2024-11-13 | 0 | 0 | 2 | 6 | 15 | 0 |
+| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-09 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last720d | 2024-11-14 | 0 | 0 | 2 | 6 | 14 | 0 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for spotify-tui lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:40:58Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:58:19Z._
