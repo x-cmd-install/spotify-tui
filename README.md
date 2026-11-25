@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last720d | 2024-12-04 | 0 | 0 | 2 | 4 | 12 | 0 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last720d | 2024-12-05 | 0 | 0 | 2 | 4 | 12 | 0 |
 
 ## Release assets
 
@@ -75,15 +75,6 @@ Lowest-scoring checks:
 | [spotify-tui-windows.sha256](https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-windows.sha256) | 66 B | `native/win/x64` |
 | [spotify-tui-windows.tar.gz](https://github.com/Rigellute/spotify-tui/releases/download/v0.25.0/spotify-tui-windows.tar.gz) | 3.0 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/spotify-tui). **6** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Void | `0.25.0` | ✅ latest |
-| Alpine edge | `0.25.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for spotify-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `spotify-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +84,4 @@ Install metadata for spotify-tui lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:32:34Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:11:00Z._
